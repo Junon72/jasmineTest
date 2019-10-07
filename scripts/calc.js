@@ -1,3 +1,3 @@
-function addition () {
+function addition() {
     return 42;
 }
